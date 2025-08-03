@@ -1,14 +1,16 @@
 {
-    "name": "com.cysharp.zlinq",
-    "displayName": "ZLinq",
-    "author": 
-    { "name": "Cysharp, Inc.", 
-        "url": "https://cysharp.co.jp/en/"
-    },
-    "version": "1.5.2",
-    "unity": "6.1",
-    "description": "Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree(FileSystem, GameObject, etc...) for all .NET platforms and Unity.",
-    "keywords": [ "LINQ" ],
-    "license": "MIT",
-    "category": "Scripting"
+  "name": "com.cysharp.zlinq",
+  "displayName": "ZLinq",
+  "author": {
+    "name": "Cysharp, Inc.",
+    "url": "https://cysharp.co.jp/en/"
+  },
+  "version": "1.5.2",
+  "unity": "6000.1",
+  "description": "Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree(FileSystem, GameObject, etc...) for all .NET platforms and Unity.",
+  "keywords": [
+    "LINQ"
+  ],
+  "license": "MIT",
+  "category": "Scripting"
 }
