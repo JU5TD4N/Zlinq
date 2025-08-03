@@ -1,12 +1,14 @@
 ﻿{
-    "name": "ZLinq",
+    "name": "ZLinq.Unity",
     "rootNamespace": "ZLinq",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": true,
-    "precompiledReferences": [],
+    "precompiledReferences": [
+        "ZLinq.dll"
+    ],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [
